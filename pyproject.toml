@@ -1,0 +1,21 @@
+[project]
+name = "llm-anisotropy"
+version = "0.1.0"
+description = "LLM anisotropy project"
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/DanielGagliardi/LLM-anisotropy"
+repository = "https://github.com/DanielGagliardi/LLM-anisotropy"
+keywords = ["anisotropy"]
+authors = [
+    {name = "Daniel Gagliardi",email = "33811407+DanielGagliardi@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
